@@ -8,3 +8,6 @@ ALL UI/UX PROJECTS
 
 [WINDOWS 11 UI/UX LINK]( https://www.figma.com/file/iaNVGEZiR7lgxGDwLT6p1N/windows-11?node-id=0%3A1&t=zPLyO9WDyTU6Ba7g-1)
 
+[YT CHAT UI UX LINK](https://www.figma.com/file/CymzJuf0b8aR36lZK1nWm4/YOUTUBE-WITH-CHAT-OPTION?node-id=0%3A1&t=wVzQK1w2HaPxapAs-1)
+
+
