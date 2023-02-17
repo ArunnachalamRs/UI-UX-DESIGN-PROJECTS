@@ -10,4 +10,5 @@ ALL UI/UX PROJECTS
 
 [YT CHAT UI UX LINK](https://www.figma.com/file/CymzJuf0b8aR36lZK1nWm4/YOUTUBE-WITH-CHAT-OPTION?node-id=0%3A1&t=wVzQK1w2HaPxapAs-1)
 
+[Amzon WEB Complete ui/ux](https://www.figma.com/file/sfaeLvyaKjwPkI19gXgo50/Amazon-Web-Complete-UI?node-id=0%3A1&t=dTV4YBZSpi58BMSR-1)
 
